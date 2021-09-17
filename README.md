@@ -1,7 +1,7 @@
 ### Hi 👋 
 ### I am Tahseen Rahman
 
-- 💼  Software Engineer at [Compile Inc](www.compile.com) since July 2020.
+- 💼  Software Engineer at [Compile Inc](https://www.compile.com) since July 2020.
 - 🌱  Proficient in Python and Django framework, apart from a lot of other things.
 - 📫  How to reach me: tahseen.rahman0996@gmail.com, [LinkedIn](https://www.linkedin.com/in/tahseen09)
 - ⚡ Amateur Snooker Player and a Formula 1 fan.
