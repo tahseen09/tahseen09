@@ -5,7 +5,7 @@
 - How to reach me: tahseen.rahman0996@gmail.com, [LinkedIn](https://www.linkedin.com/in/tahseen09)
 - Amateur Snooker Player and a Formula 1 fan.
 - I write on [Medium](https://tahseen-rahman.medium.com/).
-- [Resume.](https://tahseenrahman.notion.site/Resume-ae01040ae55f469b919d95963b1171b6)
+- [Resume](https://tahseenrahman.notion.site/Resume-ae01040ae55f469b919d95963b1171b6)
 
 ***
 
