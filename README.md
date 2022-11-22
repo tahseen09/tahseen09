@@ -31,6 +31,8 @@
 - JavaScript
 - Java
 - C/C++
+- PostgreSQL
+- MongoDB
 
 ***
 
