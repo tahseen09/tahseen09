@@ -1,6 +1,6 @@
 ## Tahseen Rahman 👋 
 
-- Software Engineer at [Jio-Haptik](https://www.haptik.ai) since Nov 2021.
+- Software Engineer at [Teya](https://teya.com) since Sept 2023.
 - Proficient in Python and Django framework, apart from a lot of other things.
 - How to reach me: tahseen.rahman0996@gmail.com, [LinkedIn](https://www.linkedin.com/in/tahseen09)
 - Amateur Snooker Player and a Formula 1 fan.
@@ -10,7 +10,7 @@
 ***
 
 ### Experience
-#### Jio-Haptik [Nov 2021 - Present]
+#### Jio-Haptik [Nov 2021 - Jun 2023]
 - Building the backend of [Interakt](https://www.interakt.shop/)
 
 #### Compile [Jul 2020 - Oct 2021]
