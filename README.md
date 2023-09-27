@@ -10,8 +10,11 @@
 ***
 
 ### Experience
+#### Teya
+- Working on making payments easier & faster
+
 #### Jio-Haptik [Nov 2021 - Jun 2023]
-- Building the backend of [Interakt](https://www.interakt.shop/)
+- Built the backend of [Interakt](https://www.interakt.shop/)
 
 #### Compile [Jul 2020 - Oct 2021]
 - Schema app for clients - Reflects the schema of the tables on Snowflake and necessary meta information. Owner of Maintainer of the project.
