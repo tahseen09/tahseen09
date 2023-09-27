@@ -10,7 +10,7 @@
 ***
 
 ### Experience
-#### Teya
+#### Teya[Sept 2023 - Present]
 - Working on making payments easier & faster
 
 #### Jio-Haptik [Nov 2021 - Jun 2023]
