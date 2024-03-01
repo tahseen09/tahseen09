@@ -1,6 +1,6 @@
 ## Tahseen Rahman 👋 
 
-- Software Engineer at [Teya](https://teya.com) since Sept 2023.
+- Software Engineer at [Teya](https://teya.com) since June 2023.
 - Proficient in Python and Django framework, apart from a lot of other things.
 - How to reach me: tahseen.rahman0996@gmail.com, [LinkedIn](https://www.linkedin.com/in/tahseen09)
 - Amateur Snooker Player and a Formula 1 fan.
