@@ -11,10 +11,13 @@
 
 ### Experience
 #### Teya[Sept 2023 - Present]
-- Working on making payments easier & faster
+- Working on making payments easier & faster.
 
 #### Jio-Haptik [Nov 2021 - Jun 2023]
-- Built the backend of [Interakt](https://www.interakt.shop/)
+- Built a lot of backend for [Interakt](https://www.interakt.shop/)
+- **Sandbox Mode** - Removed the barrier of entry to experience the product. Prior to this, a phone number and infrastructure setup was required to even use the basic features of product.
+- **Billing Restructure** - Implemented computation of customer billing system based on usage leading to improvement in revenue tracking and minimising losses.
+- **Inbox Search** - Search text content among messages in an inbox across various chats.
 
 #### Compile [Jul 2020 - Oct 2021]
 - Schema app for clients - Reflects the schema of the tables on Snowflake and necessary meta information. Owner of Maintainer of the project.
