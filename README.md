@@ -2,6 +2,7 @@
 
 - Software Engineer at [Teya](https://teya.com) since June 2023.
 - Proficient in Python and Django framework, apart from a lot of other things.
+- Currently more involved with Java(Spring boot) projects.
 - How to reach me: tahseen.rahman0996@gmail.com, [LinkedIn](https://www.linkedin.com/in/tahseen09)
 - Amateur Snooker Player and a Formula 1 fan.
 - I write on [Medium](https://tahseen-rahman.medium.com/).
