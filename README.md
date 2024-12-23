@@ -36,7 +36,7 @@
 ### Skills
 - Python(Django)
 - JavaScript
-- Java
+- Java(Spring Boot)
 - C/C++
 - PostgreSQL
 - MongoDB
@@ -48,3 +48,4 @@
 - Elastic Stack
 - Docker
 - Snowflake
+- Redis / Hazelcast
